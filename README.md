@@ -1,6 +1,6 @@
 # Hello Smart Contract
 
-文中教學來自 [Alchemy](https://docs.alchemy.com/alchemy/)
+文中教學來自 [Alchemy Doc](https://docs.alchemy.com/alchemy/)
 
 該平台提共 Ethereum 開發環境（看起來跟 Infura 一樣）
 
