@@ -22,4 +22,4 @@
 
   > [📱Integrating Your Smart Contract with the Frontend](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract/part-4)
 
-完整教學可以參考：
+完整教學可以參考：[https://vagrantpi.github.io/2021/08/25/hello-smart-contract/](https://vagrantpi.github.io/2021/08/25/hello-smart-contract/)
