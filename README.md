@@ -13,3 +13,13 @@
 - ./Interacting with a Smart Contract
 
   > [💻 Interacting with a Smart Contract](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract/interacting-with-a-smart-contract)
+
+- ./Submitting your Smart Contract to Etherscan
+
+  > [📩 Submitting your Smart Contract to Etherscan](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract/submitting-your-smart-contract-to-etherscan)
+
+- ./Integrating Your Smart Contract with the Frontend
+
+  > [📱Integrating Your Smart Contract with the Frontend](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract/part-4)
+
+完整教學可以參考：
